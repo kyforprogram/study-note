@@ -24,7 +24,7 @@ ruby on rails ruby入門講座読破　rails　on rails 6　実践ガイド　�
 |13:00	|css|	css|	bbtstrap|	bbstrap|
 |14:00	|JS|	JS|	JS|	JS|	☑|
 |15:00	|JS|	JS|	Jquery|	Jquery|
-|16:00	|Jquery|	Jquery|	Jquery	Jquery|	☑|
+|16:00	|Jquery|	Jquery|	Jquery	|Jquery|	☑|
 |17:00	|ruby on rails|	ruby on rails|	ruby on rails|	ruby on rails|	|
 |18:00	|ruby on rails|	ruby on rails|	ruby on rails|	ruby on rails|	☑|
 |19:00	|
