@@ -1,14 +1,6 @@
 # study-note
-10月の目標　<br>
-基本情報一冊読破<br>
-SPI一冊読破<br>
-CAB１冊を読<br>
-css 本を１冊復習<br>
-bootstrap 1冊読破<br>
-JS progate修了<br>
-Jquery progate修了<br>
-ruby on rails ruby入門講座読破　rails　on rails 6　実践ガイド　読破<br>
-多読　レベル０を１冊
+ruby on rails <br>
+実践ガイド６<br>
 
 # study-base
 |	0～|	15～|	30～|	45～|	|   50～休憩    |
