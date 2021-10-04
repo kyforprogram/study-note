@@ -2,12 +2,15 @@
 10月の目標　<br>
 基本情報一冊読破<br>
 SPI一冊読破<br>
+時事一切つ読破<br>
 CAB１冊を読<br>
 css 本を１冊復習<br>
 bootstrap 1冊読破<br>
 JS progate修了<br>
 Jquery progate修了<br>
 ruby on rails ruby入門講座読破　rails　on rails 6　実践ガイド　読破<br>
+面接対策本一冊<br>
+電話対応一冊<br>
 多読　レベル０を１冊
 
 # study-base
