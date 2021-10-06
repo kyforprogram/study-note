@@ -24,8 +24,8 @@ ruby on rails ruby入門講座読破　rails　on rails 6　実践ガイド　�
 |10:00	|SPI|	SPI|	SPI|	SPI|	|
 |11:00	|時事|
 |12:00	|CAB|	CAB|	CAB|	CAB|	|
-|13:00	|奇数日css|偶数日bbtstrap|
-|14:00	||	|	|	|	|
+|13:00	|昼休み|
+|14:00	|奇数日css|偶数日bbtstrap|
 |15:00	|JS|	JS|	JS|	JS|
 |16:00	|Jquery|	Jquery|	Jquery	|Jquery|	|
 |17:00	|ruby on rails|	ruby on rails|	ruby on rails|	ruby on rails|	|
