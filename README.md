@@ -19,19 +19,19 @@ ruby on rails ruby入門講座読破　rails　on rails 6　実践ガイド　�
 |0:00|
 |1:00|
 |7:00	|news	|news	|読書	|読書|
+|7:00	|基本情報技術者試験|	基本情報技術者試験|	基本情報技術者試験|	基本情報技術者試験|	|
 |8:00	|基本情報技術者試験|	基本情報技術者試験|	基本情報技術者試験|	基本情報技術者試験|	|
-|9:00	|基本情報技術者試験|	基本情報技術者試験|	基本情報技術者試験|	基本情報技術者試験|	|
-|10:00	|SPI|	SPI|	SPI|	SPI|	|
-|11:00	|時事|
-|12:00	|CAB|	CAB|	CAB|	CAB|	|
-|13:00	|css|
-|14:00	|bbstrap|
-|15:00	|JS|	JS|	JS|	JS|
-|16:00	|Jquery|	Jquery|	Jquery	|Jquery|	|
-|17:00	|ruby on rails|	ruby on rails|	ruby on rails|	ruby on rails|	|
-|18:00	|ruby on rails|	ruby on rails|	ruby on rails|	ruby on rails|	|
+|9:00	|SPI|	SPI|	SPI|	SPI|	|
+|10:00	|時事|
+|11:00	|CAB|	CAB|	CAB|	CAB|	|
+|12:00	|ruby on rails|	ruby on rails|	ruby on rails|	ruby on rails|
+|13:00	|ruby on rails|	ruby on rails|	ruby on rails|	ruby on rails|
+|14:00	|JS|	JS|	JS|	JS|
+|15:00	|JS|	JS|	Jquery	|Jquery|	|
+|16:00	|	Jquery|Jquery|Jquery|Jquery||
+|17:00	|	|
+|18:00	| 偶数日css| 奇数日bootstrap|
 |19:00	|
-|20:00	|
 |21:00	|書類|	書類|	書類|書類	|
 |22:00	|面接|面接|電話対応|電話対応|
 |23:00	|多読	|多読	|
