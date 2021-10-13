@@ -11,7 +11,7 @@ Jquery progate修了<br>
 ruby on rails ruby入門講座読破　rails　on rails 6　実践ガイド　読破<br>
 面接対策本一冊<br>
 電話対応一冊<br>
-多読　語数1689 語　目標000語
+多読　語数1689 語　目標300語
 
 # study-base
 |	0～|	15～|	30～|	45～|	|   50～休憩(github更新)    |
