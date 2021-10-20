@@ -1,4 +1,5 @@
-@import "color";
+@import "colors";
+@import "dimensions";
 
 html, body {
   margin: 0;
@@ -12,12 +13,14 @@ div#wrapper {
   min-height: 100%;
   margin: 0 auto;
   padding-bottom: 48px;
+  padding-bottom: ($wide + $moderate)*2 + $standard_line_height;
   // backgroud-color: #cccccc;
   background-color: $gray;
 }
 
 header{
-  padding: 5px;
+  // padding: 5px;
+  padding: $moderate;
   // background-color: #448888;
   background-color: $dark_cyan;
   // color: #eeeeee;
