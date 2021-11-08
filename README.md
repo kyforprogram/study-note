@@ -1,15 +1,15 @@
 # study-note
 11月の目標　<br>
-基本情報一冊読破<br>20%
-SPI一冊読破<br>20%
-時事一切つ読破<br>100%
-CAB１冊を読<br>10%
-css 本を１冊復習<br>100%
-bootstrap 1冊読破<br>30%
-JS progate修了<br>50%
-Jquery progate修了<br>60%
-ruby on rails ruby入門講座読破　rails　on rails 6　実践ガイド　読破<br>10%
-面接対策本一冊<br>40%
+基本情報一冊読破20%<br>
+SPI一冊読破20%<br>
+時事一切つ読破100%<br>
+CAB１冊を読10%<br>
+css 本を１冊復習100%<br>
+bootstrap 1冊読破30%<br>
+JS progate修了50%<br>
+Jquery progate修了60%<br>
+ruby on rails ruby入門講座読破　rails　on rails 6　実践ガイド　読破10%<br>
+面接対策本一冊40%<br>
 電話対応一冊<br>
 多読　現在の語数2455 語　目標3000語
 
