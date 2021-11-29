@@ -6,7 +6,7 @@ SPI一冊読破50%<br>
 JS progate修了70%<br>
 JAVA　progate修了
 Jquery progate修了100%<br>
-ruby on rails ruby入門講座読破　rails　on rails 6　実践ガイド　読破20%<br>
+ruby on rails ruby入門講座読破　rails　on rails 6　実践ガイド　読破30%<br>
 多読　現在の語数3300 語　目標3000語
 
 
