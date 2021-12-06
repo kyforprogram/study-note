@@ -6,8 +6,8 @@ JS progate修了100%<br>
 JAVA　progate修了<br>
 aws-cloud-techを使ってdocker aws を環境構築の学習の為<br>
 Jquery progate修了100%<br>
-ruby on rails ruby入門講座読破　rails　on rails 6　実践ガイド　読破0%<br>
-多読　現在の語数3300 語　目標3000語
+ruby on rails ruby入門講座読破　rails　on rails 6　実践ガイド　読破60%<br>
+多読　現在の語数3800 語　目標6000語
 
 
 # study-base
